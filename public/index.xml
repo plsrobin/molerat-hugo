@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Molerat Hosting</title>
+    <link>https://molerat.org/</link>
+    <description>Recent content in Home on Molerat Hosting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate><atom:link href="https://molerat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://molerat.org/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      
+      <guid>https://molerat.org/posts/my-first-post/</guid>
+      <description>Here&amp;rsquo;s an example blog post.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://molerat.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://molerat.org/about/</guid>
+      <description>We are a group of 3 young adults working to make server hosting easy and affordable. Before Molerat, hosting digital infrastructure has been part of our everyday lives. We&amp;rsquo;ve been dissapointed countless times by hosting services both overpriced and underperforming.
+So we created Molerat; to bring fair pricing and performance to the communities we love!
+The team conssists of:
+Robin - Our server guy Viking - The Bussniessman Max - The marketeer Contant information:</description>
+    </item>
+    
+  </channel>
+</rss>
