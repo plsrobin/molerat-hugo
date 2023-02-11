@@ -4,8 +4,11 @@ title: "Home"
 
 # Don't break a leg!
 
-We belive multiplayer should be easy.
+Welcome to Molerat Hosting. 
+We can do the heavy lifting, while you focus on what's fun.
+Quick and easy.
 
-Welcome to Molerat Hosting. We break our own legs, to make your life easier.
+To get started login to the [control panel](https://panel.molerat.org).
+<!-- To get started check out our [services](/hosting). -->
 
-To get started check out our [services](/hosting).
+![rat.gif](rat.gif)

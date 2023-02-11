@@ -3,23 +3,23 @@ title = "Molerat Hosting"
 theme = "moletheme"
 
 [menu]
-  [[menu.main]]
-    identifier = "hosting"
-    name = "Hosting"
-    url = "/hosting"
-    weight = 10
+#  [[menu.main]]
+#    identifier = "hosting"
+#    name = "Hosting"
+#    url = "/hosting"
+#    weight = 10
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 20
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about"
+#    weight = 20
 	
-  [[menu.external]]
-    identifier = "client area"
-    name = "Client Area"
-    url = "https://billing.molerat.org"
-    weight = 30
+#  [[menu.external]]
+#    identifier = "client area"
+#    name = "Client Area"
+#    url = "https://billing.molerat.org"
+#    weight = 30
 
   [[menu.external]]
     identifier = "control panel"

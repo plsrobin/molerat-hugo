@@ -1,6 +1,7 @@
 ---
 title: "About"
 type: "about"
+draft: true
 ---
 
 We are a group of 3 young adults working to make server hosting easy and affordable. Before Molerat, hosting digital infrastructure has been part of our everyday lives. We've been dissapointed countless times by hosting services both overpriced and underperforming.

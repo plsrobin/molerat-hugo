@@ -1,6 +1,7 @@
 ---
 title: "Minecraft Hosting"
 date: 2023-01-06T15:49:32+01:00
+draft: true
 ---
 
 All our server instances have dedicated cores, meaning performance should be stable, reliable and predictable.
