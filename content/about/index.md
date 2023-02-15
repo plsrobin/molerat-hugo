@@ -1,19 +1,20 @@
 ---
 title: "About"
 type: "about"
-draft: true
+draft: false
 ---
 
-We are a group of 3 young adults working to make server hosting easy and affordable. Before Molerat, hosting digital infrastructure has been part of our everyday lives. We've been dissapointed countless times by hosting services both overpriced and underperforming.
+We offer easy game hosting at an affordable price.
+Best effort support and backups are always included!
+We have 5+ years of minecraft hosting experience.
 
-So we created Molerat; to bring fair pricing and performance to the communities we love!
-
-The team conssists of:
-- Robin - Our server guy
-- Viking - The Bussniessman
-- Max - The marketeer
+Interested? please contact us!
 
 Contant information:
-* E-mail: molerat@norrland.xyz [[pgp](link-to-pgp)]
-* Matrix: [molerat@norrland.xyz](https://element.io)
-* Fediverse: [molerat@råtta.nu](https://råtta.nu)
+* E-mail: molerat.hosting@gmail.com
+* Phone: +46 72 703 93 93
+* Discord: Bobby Kotick#7004
+
+Molerat UF is a JA company based in Sweden.
+
+![Ungföretagsamhet](uf.png)
